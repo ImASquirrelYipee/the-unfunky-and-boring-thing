@@ -1,0 +1,15 @@
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/bin/Debug/net8.0/the-unfunky-and-boring-thing
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/bin/Debug/net8.0/the-unfunky-and-boring-thing.deps.json
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/bin/Debug/net8.0/the-unfunky-and-boring-thing.runtimeconfig.json
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/bin/Debug/net8.0/the-unfunky-and-boring-thing.dll
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/bin/Debug/net8.0/the-unfunky-and-boring-thing.pdb
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/obj/Debug/net8.0/the-unfunky-and-boring-thing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/obj/Debug/net8.0/the-unfunky-and-boring-thing.AssemblyInfoInputs.cache
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/obj/Debug/net8.0/the-unfunky-and-boring-thing.AssemblyInfo.cs
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/obj/Debug/net8.0/the-unfunky-and-boring-thing.csproj.CoreCompileInputs.cache
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/obj/Debug/net8.0/the-unfunky-and-boring-thing.sourcelink.json
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/obj/Debug/net8.0/the-unfunky-and-boring-thing.dll
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/obj/Debug/net8.0/refint/the-unfunky-and-boring-thing.dll
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/obj/Debug/net8.0/the-unfunky-and-boring-thing.pdb
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/obj/Debug/net8.0/the-unfunky-and-boring-thing.genruntimeconfig.cache
+/Users/magnusoloughlin/Documents/GitHub/the-unfunky-and-boring-thing/obj/Debug/net8.0/ref/the-unfunky-and-boring-thing.dll
